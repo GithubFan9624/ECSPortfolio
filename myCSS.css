@@ -5,14 +5,14 @@ body {
 	  font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
 .homePage {
-	background: #222222;
+	background: #42365B;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #ED480F;
+	background: #965fd4;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -22,7 +22,7 @@ body {
 	
 }
 .nav {
-	background: #DB654E;
+	background: #734f9a;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #F2BE5C;
+	background: #734f9a;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -46,10 +46,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #000000;
+     color: #8bd450;
 }
 a:visited {
-     color: #000;
+     color: #3f6d4e;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
